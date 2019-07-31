@@ -1,13 +1,13 @@
 
 p{
-font-family: 'Avenir','Helvetica Neue','Helvetica',dnp-shuei-mincho-pr6, YuGothic,'Yu Gothic','Hiragino Kaku Gothic ProN','ヒラギノ角ゴ ProN W3',sans-serif;
+font-family: 'Avenir','Helvetica Neue','Helvetica','dnp-shuei-mincho-pr6',' YuGothic','Yu Gothic','Hiragino Kaku Gothic ProN','ヒラギノ角ゴ ProN W3',sans-serif;
 
 font-weight: 400;
 
 font-style: normal;
 }
 h1,h2,h3{
-font-family: 'Avenir','Helvetica Neue','Helvetica',dnp-shuei-mincho-pr6, YuGothic,'Yu Gothic','Hiragino Kaku Gothic ProN','ヒラギノ角ゴ ProN W6',sans-serif;
+font-family: 'Avenir','Helvetica Neue','Helvetica','dnp-shuei-mincho-pr6', 'YuGothic','Yu Gothic','Hiragino Kaku Gothic ProN','ヒラギノ角ゴ ProN W6',sans-serif;
 
 font-weight: 600;
 
