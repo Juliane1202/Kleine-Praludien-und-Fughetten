@@ -1,42 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-<!--  created with free sitemap generation system www.sitemapxml.jp  --> 
+
 <url>
-  <loc>https://sancy1713.github.io/Kleine-Praludien-und-Fughetten/</loc>
-  <priority>1.0</priority>
-  <lastmod>2019-08-03T23:55:38+09:00</lastmod>
-  <changefreq>always</changefreq>
-  <url>
+  <loc>https://sancy1713.github.io/Kleine-Praludien-und-Fughetten/index.html</loc>
+  <lastmod>2019-09-29T12:52:02+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
   <loc>https://sancy1713.github.io/Kleine-Praludien-und-Fughetten/2019-9-29.html</loc>
-  <priority>0.8</priority>
-  <changefreq>always</changefreq>
-</url>
-</url>
-<url>
-  <loc>https://sancy1713.github.io/Kleine-Praludien-und-Fughetten/2019-06-1522-22-06.html</loc>
-  <priority>0.8</priority>
-  <changefreq>always</changefreq>
+  <lastmod>2019-09-29T12:52:02+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://sancy1713.github.io/Kleine-Praludien-und-Fughetten/2019-04-2507-17-41.html</loc>
-  <priority>0.8</priority>
-  <changefreq>always</changefreq>
+  <loc>https://sancy1713.github.io/Kleine-Praludien-und-Fughetten/2019-06-15%2022-22-06.html</loc>
+  <lastmod>2019-09-29T12:52:02+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://sancy1713.github.io/Kleine-Praludien-und-Fughetten/2019-04-0416-20-46.html</loc>
-  <priority>0.8</priority>
-  <changefreq>always</changefreq>
+  <loc>https://sancy1713.github.io/Kleine-Praludien-und-Fughetten/2019-04-25%2007-17-41.html</loc>
+  <lastmod>2019-09-29T12:52:02+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://sancy1713.github.io/Kleine-Praludien-und-Fughetten/2019-04-0222-04-37.html</loc>
-  <priority>0.8</priority>
-  <changefreq>always</changefreq>
+  <loc>https://sancy1713.github.io/Kleine-Praludien-und-Fughetten/2019-04-04%2016-20-46.html</loc>
+  <lastmod>2019-09-29T12:52:02+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://sancy1713.github.io/Kleine-Praludien-und-Fughetten/2018-02-1019-45-50.html</loc>
-  <priority>0.8</priority>
-  <changefreq>always</changefreq>
+  <loc>https://sancy1713.github.io/Kleine-Praludien-und-Fughetten/2019-04-02%2022-04-37.html</loc>
+  <lastmod>2019-09-29T12:52:02+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
+<url>
+  <loc>https://sancy1713.github.io/Kleine-Praludien-und-Fughetten/2018-02-10%2019-45-50.html</loc>
+  <lastmod>2019-09-29T12:52:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
 
 </urlset>
